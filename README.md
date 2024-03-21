@@ -1,9 +1,6 @@
-# learn-github
+Libro de Github
+Esto es la primera parte de un libro de Github.
 
-Cambio desde Github.
+## Introducción
 
-Cambio desde local.
-
-Otro cambio desde Github.
-
-Y aún otro cambio más.
+Introducción aquí
