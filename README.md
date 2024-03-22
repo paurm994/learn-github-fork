@@ -23,5 +23,8 @@ Finalmente, vamos a fusionar todos estos contenidos en `libro`. El resultado deb
   ```
 
 - `git log` debe mostrar los commits de cada rama más el commit de merge.
+- ![image](https://github.com/Crissblck/learn-github-fork/assets/164347376/dc63c475-dc66-4979-88b3-12cc55aa354e)
+
 
 5. Subir el repositorio del ejercicio 4 a Github.
+
