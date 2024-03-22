@@ -1,6 +1,6 @@
 # learn-github
 
-Repositorio para aprender Github.
+Repositorio para aprender Github. Crear `fork` para contribuir.
 
 ## Ejercicios
 
