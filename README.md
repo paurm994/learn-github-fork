@@ -2,6 +2,9 @@
 
 Repositorio para aprender Github. Crear `fork` para contribuir.
 
+<img width="146" alt="image" src="https://github.com/cesarlpb/learn-github/assets/164490009/1c66c81e-4a62-4f31-aa64-39c287afd0ce">
+
+
 ## Ejercicios
 
 4. Vamos a imaginar que trabajamos en un libro sobre Git y queremos hacer algunos temas. Se va a trabajar en ramas para cada capítulo. Implementa las siguientes **ramas** con al menos un archivo y un commit con cualquier contenido:
