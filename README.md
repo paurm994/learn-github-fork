@@ -34,5 +34,3 @@ Finalmente, vamos a fusionar todos estos contenidos en `libro`. El resultado deb
 Cambio 1
 
 Cambio 2 - error
-
-Cambio 3
