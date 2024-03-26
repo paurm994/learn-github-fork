@@ -29,10 +29,11 @@ Finalmente, vamos a fusionar todos estos contenidos en `libro`. El resultado deb
 
 5. Subir el repositorio del ejercicio 4 a Github.
 
+
 ---
 
 Cambio 1
 
-Cambio 2 - error
-
 Cambio 3
+
+
